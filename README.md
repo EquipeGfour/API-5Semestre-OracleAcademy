@@ -1,4 +1,4 @@
-<h1 align="center"> 🟠: Oracle Academy 🟠: </h1>
+<h1 align="center"> 🟠 Oracle Academy 🟠 </h1>
 
 <span id="topo">
 <p align="center">
@@ -12,23 +12,15 @@
    
 <span id="sobre">
 
-## 📝: Sobre o projeto
+## 📝 Sobre o projeto
 
-.
+Descrição aqui.
 
 > _ _
 
-:pushpin: Status do Projeto: **Em desenvolvimento** 🏗️
+:pushpin: Status do Projeto: **Em desenvolvimento**
 
-### 🏁 Entregas de Sprints
-
-Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, back, nlp...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
-| Sprint | Previsão de entrega | Status | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 24/09/2023 | 🏗️ Em desenvolvimento | Em breve <!-- [Ver relatório](https://github.com/The-Bugger-Ducks/mood-hound-documentation/blob/sprint-01/README.md) -->|
-| 02 | 15/10/2023 | 🛑 Não iniciado | Em breve |
-| 03 | 05/11/2023 | 🛑 Não iniciado | Em breve |
-| 04 | 26/11/2023 | 🛑 Não iniciado | Em breve |
+Entregas da sprint
 
 → [Voltar ao topo](#topo)
 
