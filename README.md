@@ -24,10 +24,10 @@ Descrição aqui.
 
 Sprint ID | Data | Tag | Status
 ----------|------|-----|--------
-#1 | 04/09 - 24/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)|☑️|
-#2 | 25/09 - 15/10 |[Sprint 2](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint02)|☑️|
-#3 | 16/10 - 05/11 |[Sprint 3](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint03)|☑️| 
-#4 | 06/11 - 26/11 |[Sprint 4](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint04)|☑️| 
+#1 | 04/09 - 24/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)|:|
+#2 | 25/09 - 15/10 |[Sprint 2](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint02)||
+#3 | 16/10 - 05/11 |[Sprint 3](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint03)|☑| 
+#4 | 06/11 - 26/11 |[Sprint 4](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint04)|| 
 <br>
 
 → [Voltar ao topo](#topo)
