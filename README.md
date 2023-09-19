@@ -55,8 +55,7 @@ Sprint ID | Data | Tag | Status
 ## 💭 User Stories
 <span id="stories">
 <div align="center">
-   <img src="/img/userstorys1.png" alt="USER STORIES" />
-   <img src="/img/userstorys2.png" alt="USER STORIES" />
+   <img src="/img/userstorys.svg" alt="USER STORIES" />
 </div>
     
 → [Voltar ao topo](#topo)
