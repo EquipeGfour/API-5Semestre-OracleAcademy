@@ -24,10 +24,10 @@ Descrição aqui.
 
 Sprint ID | Data | Tag-Front | Tag-Back | Backlog | Status
 ----------|------|-----|-----|--------|---------|--------
-#1 | 04/09 - 24/09 |[Sprint 1]()|[Sprint 1]()|[Backlog 1]() |:white_check_mark:|
-#2 | 25/09 - 15/10 |[Sprint 2]()|[Sprint 2]()|[Backlog 2]() |:white_check_mark:|
-#3 | 16/10 - 05/11 |[Sprint 3]()|[Sprint 3]()|[Backlog 3]()|:white_check_mark:|
-#4 | 06/11 - 26/11 |[Sprint 4]()|[Sprint 4]()|[Backlog 4]()|:white_check_mark:|
+#1 | 04/09 - 24/09 | [Sprint 1]() | [Sprint 1]() | [Backlog 1]() |:white_check_mark:|
+#2 | 25/09 - 15/10 | [Sprint 2]() | [Sprint 2]() | [Backlog 2]() |:white_check_mark:|
+#3 | 16/10 - 05/11 | [Sprint 3]() | [Sprint 3]() | [Backlog 3]() |:white_check_mark:|
+#4 | 06/11 - 26/11 | [Sprint 4]() | [Sprint 4]() | [Backlog 4]() |:white_check_mark:|
 <br>
 
 
