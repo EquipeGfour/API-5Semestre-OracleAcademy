@@ -34,19 +34,19 @@ Sprint ID | Data | Tag | Status
 
 <span id="backlog">
 
-## 📑: Backlog
+## 📑 Backlog
 
 <div align="center">
    <img src="" alt="PRODUCT BACKLOG" />
 </div>
 
-## 📜: Epicos
+## 📜 Epicos
 <span id="epicos">
 <div align="center">
    <img src="" alt="SPRINT BACKLOG" /> 
 </div>
 
-## 💭: User Stories
+## 💭 User Stories
 <span id="stories">
 <div align="center">
    <!-- <img src="" alt="USER STORIES" /> -->
@@ -75,7 +75,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <span id="equipe">
 
 <div id='equipe'>
-<h2> 🎓 Equipe Gfour</h2>
+<h2> 🥑 Equipe Gfour</h2>
     
 
 Integrantes da Equipe | Função | Linkedin | Github| 
