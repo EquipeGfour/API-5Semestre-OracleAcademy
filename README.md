@@ -43,7 +43,7 @@ Sprint ID | Data | Tag | Status
 <div align="center">
    <img src="/img/requisito_f.png" alt="PRODUCT BACKLOG" />
    <img src="/img/requisito_nf.png" alt="PRODUCT BACKLOG" />
-   <img src="/img/sprint.png" alt="PLANEJAMENTO SPRINT" />
+   <img src="/img/sprints.png" alt="PLANEJAMENTO SPRINT" />
 </div>
 
 
