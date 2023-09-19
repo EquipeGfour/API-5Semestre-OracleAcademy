@@ -49,13 +49,13 @@ Sprint ID | Data | Tag | Status
 ## 📜 Epicos
 <span id="epicos">
 <div align="center">
-   <img src="" alt="SPRINT BACKLOG" /> 
+   <img src="/img/epic.png" alt="SPRINT BACKLOG" /> 
 </div>
 
 ## 💭 User Stories
 <span id="stories">
 <div align="center">
-   <!-- <img src="" alt="USER STORIES" /> -->
+   <img src="/img/userstorys.png" alt="USER STORIES" /> 
 </div>
     
 → [Voltar ao topo](#topo)
