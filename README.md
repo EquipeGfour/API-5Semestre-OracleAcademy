@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> Sprint01 - 04/09 à 24/09 </h1>
+<h1 align="center"> Sprint 01 - 04/09 à 24/09 </h1>
 <br id="topo">
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
