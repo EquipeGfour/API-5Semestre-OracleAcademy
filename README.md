@@ -41,7 +41,7 @@ Sprint ID | Data | Tag | Status
 ## 📑 Backlog
 
 <div align="center">
-   <img src="/img/backlo.png" alt="PRODUCT BACKLOG" />
+   <img src="/img/backlog.png" alt="PRODUCT BACKLOG" />
 </div>
 
 
