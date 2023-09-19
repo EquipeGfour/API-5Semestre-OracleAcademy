@@ -31,12 +31,24 @@
 <span id="entregas">
 <h2> 📑 Requisitos</h2>
 
-### RF 01: Produtos e Categorias no Sistema:
-Nesse requesito,para essa Sprint, foi designada como prioridade a inserção dos Produtos e Categorias no sistema, nesse primeiro momento, sendo feito apenas pelo back-end.
+### RF 01: Modelagem do banco:
+Descrição.
 <br>
 
-### RF 02: Cross-Selling ao Usuário:
-Para essa Sprint, o foco ao Cross-Selling é na etapa de cadastro do Usuário ao sistema. Temos inicialmente, uma rápida "pesquisa de interesses" onde o Usuário informa o que ele tem interesse. Com essas informações, sua HomePage é apresentada com os produtos relacionados ao seu perfil,com enfâse nas categorias escolhidas inicialmente.
+### RF 02: CRUD de objetivos do usuário:
+Descrição.
+<br>
+
+### RF 03: CRUD de Tarefas do usuário para alcançar determinado objetivo:
+Descrição.
+<br>
+
+### RF 04: Implementação da Lógica de Priorização:
+Descrição.
+<br>
+
+### RF 05: Implementação da estipulação de tempo de cada Objetivo:
+Descrição.
 <br>
 
 <h3>:gear: Demonstração da Aplicação</h3>
@@ -59,7 +71,6 @@ Link do Repositório do Front-End: https://github.com/EquipeGfour/API-5Semestre-
 Link do Repositório do Back-End: https://github.com/EquipeGfour/API-5Semestre-OracleAcademy-BackEnd---Backend
 
 <br>
-
 
  
  → [Voltar ao topo](#topo)
