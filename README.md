@@ -75,7 +75,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
 <img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=swagger&logoColor=3A5F0B" alt="Swagger" /> 
-<img src="https://img.shields.io/badge/python-CED4DA?style=for-the-badge&logo=python&logoColor=3670A0" alt="Python" /> 
+<img src="https://img.shields.io/badge/Firebase-CED4DA?style=for-the-badge&logo=firebase&logoColor=3670A0" alt="Firebase" /> 
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" />
     
