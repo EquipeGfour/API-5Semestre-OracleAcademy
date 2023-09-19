@@ -22,14 +22,13 @@ Descrição aqui.
 
 ### 🎯 Entregas
 
-Sprint ID | Data | Tag-Front | Tag-Back | Backlog | Status
-----------|------|-----|-----|--------|---------|--------
-#1 | 04/09 - 24/09 |[Sprint 1]()|[Sprint 1]()|[Backlog 1]()|:white_check_mark:|
-#2 | 25/09 - 15/10 |[Sprint 2]()|[Sprint 2]()|[Backlog 2]()|:white_check_mark:|
-#3 | 16/10 - 05/11 |[Sprint 3]()|[Sprint 3]()|[Backlog 3]()|:white_check_mark:|
-#4 | 06/11 - 26/11 |[Sprint 4]()|[Sprint 4]()|[Backlog 4]()|:white_check_mark:|
+Sprint ID | Data | Tag | Status
+----------|------|-----|--------
+#1 | 04/09 - 24/09 |[Sprint 1](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint01)|:white_check-mark:|
+#2 | 25/09 - 15/10 |[Sprint 2](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint02)|:white_check:|
+#3 | 16/10 - 05/11 |[Sprint 3](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint03)|:white_check:| 
+#4 | 06/11 - 26/11 |[Sprint 4](https://github.com/EquipeGfour/API-3Semestre-UOL/tree/Sprint04)|:white_check:| 
 <br>
-
 
 → [Voltar ao topo](#topo)
 
