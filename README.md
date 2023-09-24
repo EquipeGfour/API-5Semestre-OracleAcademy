@@ -68,6 +68,9 @@ Sprint ID | Data | Tag | Status
 <span id="banco">
 
 ## :white_medium_small_square: Modelo do banco
+<div align="center">
+   <img src="/img/banco.png" alt="Modelo do Banco" /> 
+</div>
 
 <span id="tecnologias">
 
