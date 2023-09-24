@@ -43,7 +43,9 @@ A modelagem de banco de dados é o processo de criar uma representação estrutu
 
 ### RF 02: CRUD de objetivos do usuário:
 O desenvolvimento do CRUD de objetivos nada mais é do que a entrega da Criação, Listagem, Update e Delete de objetivos, que definimos como uma meta/plano/projeto macro que determinado usuário possuí e que para conclui-lo, ele precisa finalizar todas as tarefas relacionadas a esse objetivo, lembrando que o mesmo ainda possuí parametros de priorização e estipulação de tempo em dias.
+<br>
 Ex.: Objetivo: Construir uma casa de cachorro
+<br>
      Tarefas:
         - Comprar material;
         - Construir a base;
