@@ -61,7 +61,7 @@ Descrição.
 
 
 <h1 align="center">
-<img src = "/img/burndown"></h1>
+<img src = "/img/burndown.png"></h1>
 
 <span id="links">
 <h2>:card_file_box: Links Úteis</h2>
