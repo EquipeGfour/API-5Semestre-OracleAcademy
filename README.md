@@ -10,6 +10,11 @@
 
 <span id="Objetivo">
 <h2> 🎯 Objetivo da Sprint</h2>
+<h3> Para esta primeira entrega, foi decidido, após conversa com o cliente, que seria entregue uma aplicação que atendesse, mesmo que minimamente, o desafio proposto por ele - Criação de uma aplicação capaz de gerir as atividades de determinado indivíduo, separando-as por prioridade e com controle de tempo - para tanto, dividimos o time para definição das nomenclaturas que utilizariamos, criação de protótipos para validação com o cliente, modelagem dos dados...</h3>
+
+<h2>📹 Video Sprint 1</h2>
+<h3>https://www.youtube.com/watch?v=_wjq_ZkMMtc</h3>
+    
 <p>Requisitos Funcionais abrangidos nessa Sprint:</p>
 
 - **RF 01:** Modelagem do banco;
@@ -32,29 +37,32 @@
 <h2> 📑 Requisitos</h2>
 
 ### RF 01: Modelagem do banco:
-Descrição.
+A modelagem de banco de dados é o processo de criar uma representação estruturada e organizada dos dados que a aplicação precisará armazenar e gerenciar. Ela envolveu a definição de tabelas, campos, relacionamentos e restrições tudo para garantir que os dados fossem armazenados de forma eficiente, consistente e acessível. Sendo fundamental para o desenvolvimento do sistema e desempenhando um papel crucial na garantia da integridade e eficiência dos dados.
 <br>
 
 ### RF 02: CRUD de objetivos do usuário:
-Descrição.
+O desenvolvimento do CRUD de objetivos nada mais é do que a entrega da Criação, Listagem, Update e Delete de objetivos, que definimos como uma meta/plano/projeto macro que determinado usuário possuí e que para conclui-lo, ele precisa finalizar todas as tarefas relacionadas a esse objetivo, lembrando que o mesmo ainda possuí parametros de priorização e estipulação de tempo em dias.
+Ex.: Objetivo: Construir uma casa de cachorro
+     Tarefas:
+        - Comprar material;
+        - Construir a base;
+        - ...
+    
 <br>
 
 ### RF 03: CRUD de Tarefas do usuário para alcançar determinado objetivo:
-Descrição.
+Assim como o objetivo, o CRUD de tarefas diz respeito a toda a parte de Criação, Listagem, Update e Delete de tarefas, e estas por sua vez são as responsáveis por são as responsáveis por compor determinado Objetivo, possuíndo agora nesta primeira entrega, parametros de priorização, titulo e descrição.
 <br>
 
 ### RF 04: Implementação da Lógica de Priorização:
-Descrição.
+A lógica de priorização que foi implementada nesta sprint se trata de uma lógica que utiliza apenas os parametros de priorização, então o usuário passará se o objetivo é de prioridade baixa, media ou alta, e depois setará se as tarefas relacionadas são de prioridade baixa, media, alta ou urgente. Para as proximas entregas, pretendemos aprimorar ainda mais essa lógica, acrescentando o tempo esperado de conclusão da tarefa nessa lógica.
 <br>
 
 ### RF 05: Implementação da estipulação de tempo de cada Objetivo:
-Descrição.
+Para esta primeira entrega, implementamos a estipulação de tempo em dias dos Objetivos, assim, por se tratarem de metas/planos/projetos macro, esse era a melhor unidade de medida para acompanhamento deles.
+Para as proximas, pretendemos entregar estipulações de tempo mais precisas para tarefas, utilizando horas e até mesmo minutos, caso necessário, uma vez que são atividades em tese menores que serão realizadas.
 <br>
 
-<h3>:gear: Demonstração da Aplicação</h3>
-<h1 align="center">
-<img src = "/img/"></h1>
-<br>
 
 <span id="burndown">
 <h2>:chart_with_downwards_trend: Burndown da Sprint</h2>
