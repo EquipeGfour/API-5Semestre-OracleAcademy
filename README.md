@@ -47,8 +47,11 @@ O desenvolvimento do CRUD de objetivos nada mais é do que a entrega da Criaçã
 Ex.: Objetivo: Construir uma casa de cachorro
 <br>
      Tarefas:
+     <br>
         - Comprar material;
+        <br>
         - Construir a base;
+        <br>
         - ...
 
 ### RF 03: CRUD de Tarefas do usuário para alcançar determinado objetivo:
