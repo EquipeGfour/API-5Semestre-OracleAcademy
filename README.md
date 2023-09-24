@@ -48,8 +48,6 @@ Ex.: Objetivo: Construir uma casa de cachorro
         - Comprar material;
         - Construir a base;
         - ...
-    
-<br>
 
 ### RF 03: CRUD de Tarefas do usuário para alcançar determinado objetivo:
 Assim como o objetivo, o CRUD de tarefas diz respeito a toda a parte de Criação, Listagem, Update e Delete de tarefas, e estas por sua vez são as responsáveis por são as responsáveis por compor determinado Objetivo, possuíndo agora nesta primeira entrega, parametros de priorização, titulo e descrição.
