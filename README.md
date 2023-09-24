@@ -11,6 +11,7 @@
 <span id="Objetivo">
 <h2> 🎯 Objetivo da Sprint</h2>
 <h4> Para esta primeira entrega, foi decidido, após conversa com o cliente, que seria entregue uma aplicação que atendesse, mesmo que minimamente, o desafio proposto por ele - Criação de uma aplicação capaz de gerir as atividades de determinado indivíduo, separando-as por prioridade e com controle de tempo - para tanto, dividimos o time para definição das nomenclaturas que utilizariamos, criação de protótipos para validação com o cliente, modelagem dos dados...</h4>
+<br>
 
 <h2>📹 Video Sprint 1</h2>
 <h3>https://www.youtube.com/watch?v=_wjq_ZkMMtc</h3>
