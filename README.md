@@ -15,7 +15,7 @@
 <h2>📹 Video Sprint 1</h2>
 <h3>https://www.youtube.com/watch?v=_wjq_ZkMMtc</h3>
     
-<p>Requisitos Funcionais abrangidos nessa Sprint:</p>
+<h2>Requisitos Funcionais abrangidos nessa Sprint:</h2>
 
 - **RF 01:** Modelagem do banco;
 - **RF 02:** CRUD de objetivos do usuário;
