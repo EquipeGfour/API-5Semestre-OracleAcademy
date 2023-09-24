@@ -102,6 +102,15 @@ Vinícius Andrade Barborsa | PO | [Linkedin](https://br.linkedin.com/in/kevin-mi
 <br>
 
 </div>
+
+<span id="links">
+<h2>:card_file_box: Links Úteis</h2>
+
+Link do Repositório do Front-End: https://github.com/EquipeGfour/API-5Semestre-OracleAcademy-FrontEnd
+
+Link do Repositório do Back-End: https://github.com/EquipeGfour/API-5Semestre-OracleAcademy-BackEnd
+
+<br>
  
  <h5 align="center">  Projeto Integrador 2023-2 - Fatec São José dos Campos </h5>
  
