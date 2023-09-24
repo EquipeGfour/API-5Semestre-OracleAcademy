@@ -14,6 +14,7 @@
 
 <h2>📹 Video Sprint 1</h2>
 <h3>https://www.youtube.com/watch?v=_wjq_ZkMMtc</h3>
+<br>
     
 <h2>Requisitos Funcionais abrangidos nessa Sprint:</h2>
 
