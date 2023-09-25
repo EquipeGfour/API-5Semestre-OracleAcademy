@@ -82,7 +82,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Node.Js-CED4DA?style=for-the-badge&logo=nodedotjs&logoColor=3A5F0B" alt="Node.js" /> 
 <img src="https://img.shields.io/badge/React-CED4DA?style=for-the-badge&logo=react&logoColor=1497ff" alt="React native" />
 <img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" />
-<img src="https://img.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor=007ACC" alt="JavaScript" />
+<img src="https://img.shields.io/badge/JavaScript-CED4DA?style=for-the-badge&logo=javascript&logoColor=FFFF00" alt="JavaScript" />
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
 <img src="https://img.shields.io/badge/Swagger-CED4DA?style=for-the-badge&logo=swagger&logoColor=3A5F0B" alt="Swagger" /> 
 <img src="https://img.shields.io/badge/Firebase-CED4DA?style=for-the-badge&logo=firebase&logoColor=3670A0" alt="Firebase" /> 
