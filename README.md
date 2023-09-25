@@ -51,7 +51,7 @@ Sprint ID | Data | Tag | Status
 ## 📜 Epicos
 <span id="epicos">
 <div align="center">
-   <img src="/img/epi.png" alt="SPRINT BACKLOG" /> 
+   <img src="/img/epic.png" alt="SPRINT BACKLOG" /> 
 </div>
 
 ## 💭 User Stories
