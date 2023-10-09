@@ -88,6 +88,7 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 <img src="https://img.shields.io/badge/Firebase-CED4DA?style=for-the-badge&logo=firebase&logoColor=3670A0" alt="Firebase" /> 
 <img src="https://img.shields.io/badge/Discord-CED4DA?style=for-the-badge&logo=discord&logoColor=7289DA" alt="Discord" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" />
+<img src="https://img.shields.io/badge/Mongo-CED4DA?style=for-the-badge&logo=mongodb&logoColor=20232A" alt="Mongo DB" />
     
 → [Voltar ao topo](#topo)
 
