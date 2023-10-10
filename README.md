@@ -10,16 +10,16 @@
 
 <span id="Objetivo">
 <h2> 🎯 Objetivo da Sprint</h2>
-<h4> Para a segunda sprint, </h4>
+<h4> Para a segunda sprint, nosso foco foi finalizar todas as atividades relacionadas ao Workspace, então, toda a parte de criação de workspaces e tarefas, adição de usuários e acompanhamento de o que estava sendo feito foram a nossa entrega, além é claro da melhoria na lógica de priorização, que agora levará em conta o parametro de priorização e o prazo de entrega para priorizar Objetivos e Tarefas</h4>
 <br>
     
 <h2>Requisitos Funcionais abrangidos nessa Sprint:</h2>
 
-- **RF 0:** Mod;
-- **RF 0:** CR;
-- **RF 0:** CR;
-- **RF 0:** Im;
-- **RF 0:** Im.
+- **RF 04:** Refinamento da lógica de priorização (Prioridade e data);
+- **RF 06:** CRUD de Usuários;
+- **RF 07:** CRUD de Workspaces;
+- **RF 10:** Login e Logout;
+- **RF 02:** Status gerais - PO e Usuários.
 
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
