@@ -10,7 +10,7 @@
 
 <span id="Objetivo">
 <h2> 🎯 Objetivo da Sprint</h2>
-<h4> Para a segunda sprint, nosso foco foi finalizar todas as atividades relacionadas ao Workspace, então, toda a parte de criação de workspaces e tarefas, adição de usuários e acompanhamento de o que estava sendo feito foram a nossa entrega, além é claro da melhoria na lógica de priorização, que agora levará em conta o parametro de priorização e o prazo de entrega para priorizar Objetivos e Tarefas</h4>
+<h4> Para a segunda sprint, nosso foco foi finalizar todas as atividades relacionadas ao Workspace, então, toda a parte de criação de workspaces e tarefas, adição de usuários e acompanhamento de o que estava sendo feito foram a nossa entrega, além é claro da melhoria na lógica de priorização, que agora levará em conta o parametro de priorização e o prazo de entrega para priorizar Objetivos e Tarefas.</h4>
 <br>
     
 <h2>Requisitos Funcionais abrangidos nessa Sprint:</h2>
