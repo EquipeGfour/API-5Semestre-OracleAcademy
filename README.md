@@ -18,8 +18,7 @@
 A partir do desafio proposto pela empresa parceira, referente a organização, priorização de tarefas e atribuições diárias, tanto na rotina pessoal quanto no mundo corporativo, nossa equipe tem como objetivo a criação de uma aplicação que auxilie na organização e no planejamentos de objetivos e suas tarefas diárias, priorizando-as por urgência e com marcações de tempo para um controle mais preciso tanto dos objetivos quanto das tarefas, além da mensuaração da quantidade de tarefas realizadas e apresentação mensal de resultados de determinado usuário em um dashboard.
 
 > _Foi utilizado como nomenclaturas: <br>
->     -<b>Workspace:</b> Espaço onde é possível criar tarefas e adicionar usuários, podendo ser feita a atribuição de tarefas específicas a um determinado usuário e o acompanhamento das atividades.<br>
->     -<b>Objetivo:</b> Objetivo macro que se deseja alcançar.<br>
+>     -<b>Objetivo:</b> Objetivo macro que se deseja alcançar, podendo ser setado como um Worksapce, onde aí você poderá adicionar pessoas e fazer o acompanhamento de tudo.<br>
 >     -<b>Tarefas:</b> Atividades que deverão ser realizadas para alcançar determinado objetivo.<br>
 >     -<b>Dashboard:</b> Relatório mensal com o desempenho do usuário._
 
