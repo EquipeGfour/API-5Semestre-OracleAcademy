@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> Sprint 02 - 25/09 à 15/10 </h1>
+<h1 align="center"> Sprint 03 - 16/10 à 05/11 </h1>
 <br id="topo">
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
@@ -15,11 +15,11 @@
     
 <h2>Requisitos Funcionais abrangidos nessa Sprint:</h2>
 
-- **RF 04:** Refinamento da lógica de priorização (Prioridade e data);
-- **RF 06:** CRUD de Usuários;
-- **RF 07:** CRUD de Workspaces;
-- **RF 10:** Login e Logout;
-- **RF 06 e 07:** Status gerais - PO e Usuários.
+- **RF 0:** ;
+- **RF 0:** ;
+- **RF 0:** ;
+- **RF 0:** ;
+- **RF 0 e 0:** .
 
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
@@ -34,24 +34,24 @@
 <span id="entregas">
 <h2> 📑 Requisitos</h2>
 
-### RF 04: Refinamento da lógica de priorização (Prioridade e data):
-A ideia para esse item, foi melhorar a lógica de priorização, para que ela levasse em conta, não só o parametro de priorização, quanto o prazo de entrega de determinado Objetivo ou Tarefa, utilizando a ideia da Matriz de Eisenhower que no nosso caso levará ambos valores em conta quando for priorizar algo.
+### RF 0: :
+.
 <br>
 
-### RF 06: CRUD de Usuários:
-Pensamos também em implementar o CRUD de Usuários, uma vez que implementariamos o Workspace, e nele deve ser possível adicionar pessoas. Portanto, foi pensado nos tipos de usuários, os campos que ele teria e todas as funcionalidades de Criar, Editar e Excluir.
+### RF 0: :
+.
 <br>
 
-### RF 07: CRUD de Workspaces:
-O Workspace, na nossa aplicação, se trata de um "espaço" onde é possível criar tarefas e adicionar usuários, assim, é possível fazer o controle das Tarefas que determinado time possuí e o que cada um está fazendo, uma vez que também é possível adicionar pessoas nas Tarefas. Além disso, também foi feito toda a parte de CRUD - Criar, Editar, Deletar e Excluir.
+### RF 0: :
+.
 <br>
 
-### RF 10: Login e Logout:
-Outra funcionalidade que implementamos foi o login e o logout, para que fosse possível deslogar do usuário, além é claro de tornar o login algo obrigatório para o acesso a aplicação.
+### RF 0: :
+.
 <br>
 
-### RF 06 e 07: Status gerais - PO e Usuários:
-Foi implementado também o status dos usuários, então agora teremos usuários normais, os que podem apenas visualizar e os administradores dos workspaces. Diferenciando assim os usuários.
+### RF 0 e 0: :
+.
 <br>
 
 
