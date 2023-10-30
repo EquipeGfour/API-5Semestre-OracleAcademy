@@ -30,7 +30,7 @@ Sprint ID | Data | Tag | Status
 ----------|------|-----|--------
 #1 | 04/09 - 24/09 |[Sprint 1](https://github.com/EquipeGfour/API-5Semestre-OracleAcademy/tree/Sprint-1)|✅ Concluída|
 #2 | 25/09 - 15/10 |[Sprint 2](https://github.com/EquipeGfour/API-5Semestre-OracleAcademy/tree/Sprint-2) |✅ Concluída|
-#3 | 16/10 - 05/11 |Sprint 3|🚧 Em desenvolvimento| 
+#3 | 16/10 - 05/11 |[Sprint 3](https://github.com/EquipeGfour/API-5Semestre-OracleAcademy/tree/Sprint-3)|🚧 Em desenvolvimento| 
 #4 | 06/11 - 26/11 |Sprint 4|⚙️ Não iniciado| 
 <br>
 
@@ -43,7 +43,7 @@ Sprint ID | Data | Tag | Status
 <div align="center">
    <img src="/img/requisito_f.png" alt="PRODUCT BACKLOG" />
    <img src="/img/requisito_nf.png" alt="PRODUCT BACKLOG" />
-   <img src="/img/sprints.png" alt="PLANEJAMENTO SPRINT" />
+   <img src="/img/sprint.png" alt="PLANEJAMENTO SPRINT" />
 </div>
 
 
