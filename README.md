@@ -12,13 +12,13 @@
 <h2> 🎯 Objetivo da Sprint</h2>
 <h4> 
 
-Na terceira sprint, nossa equipe concentrou seus esforços em concluir todas as funcionalidades relacionadas aos objetivo e workspaces. O plano foi estabelecer uma base sólida antes de passarmos para a quarta sprint, onde direcionaríamos nosso foco exclusivamente para a criação de dashboards
+Na terceira sprint, nossa equipe concentrou seus esforços em concluir todas as funcionalidades relacionadas aos objetivo e workspaces. O plano foi estabelecer uma base sólida antes de passarmos para a quarta sprint, onde direcionaríamos nosso foco exclusivamente para a criação de dashboards.
 
 Durante essa sprint, implementamos várias funcionalidades essenciais. Introduzimos um cronômetro, que permite o acompanhamento do tempo gasto em cada tarefa, fornecendo uma visão clara do tempo despendido. Além disso, possibilitamos o upload de documentos diretamente nas tarefas dos workspaces, promovendo uma melhor compreensão e facilitando a colaboração da equipe.
 
 Também estabelecemos um sistema de status das tarefas, abrangendo desde "não começada" até "em andamento," "atrasada," "concluída" e "esperando validação." Esses status permitem um acompanhamento mais preciso do progresso das tarefas.
 
-Além das novas funcionalidades, dedicamos tempo para ajustar e melhorar algumas das funcionalidades já existentes como alguns filtros específicos e o checkbox, que agiliza o processo de mudança de status das tarefas, aprimorando a experiência geral do usuário e a eficiência do sistema..
+Além das novas funcionalidades, dedicamos tempo para ajustar e melhorar algumas das funcionalidades já existentes como alguns filtros específicos e o checkbox, que agiliza o processo de mudança de status das tarefas, aprimorando a experiência geral do usuário e a eficiência do sistema.
 </h4>
 <br>
     
