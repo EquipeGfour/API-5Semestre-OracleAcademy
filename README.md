@@ -104,6 +104,7 @@ Rafael Peressoni Waltrick | DT | [Linkedin](https://www.linkedin.com/in/rafael-p
 Nicolas Lima de Holanda Galindo | DT | [Linkedin](https://www.linkedin.com/in/nicolas-lima-2a75a3220/) | [Github](https://github.com/Nicolas734)|
 Rodrigo Ribeiro dos Santos | DT | [Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)|
 Kevin Ferreira Mirenda | DT | [Linkedin](https://br.linkedin.com/in/vin%C3%ADcius-barbosa-78111a206?trk) | [Github](https://github.com/KevinFMfatec)
+Antonio Alexandre Rezende Junior | DT |[Linkedin](https://www.linkedin.com/in/antonio-nepomuceno/)| [Github](https://github.com/Nepoun)|
 Raniel Francisco Santos de Paula | SM |[Linkedin](https://www.linkedin.com/in/raniel-santos-204878222/)| [Github](https://github.com/Raniel-Santos)|
 Vinícius Andrade Barborsa | PO | [Linkedin](https://br.linkedin.com/in/kevin-mirenda-a54a64220) | [Github](https://github.com/ViniciusAndBar)
 
