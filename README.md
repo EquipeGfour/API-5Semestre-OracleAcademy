@@ -46,15 +46,15 @@ Além das novas funcionalidades, dedicamos tempo para ajustar e melhorar algumas
 A ideia para este item foi melhorar nosso app, tornando possível compartilhar e armazenar informações relacionadas aos seus projetos e tarefas, proporcionando assim uma gestão mais eficaz e eficiente das tarefas. .
 <br>
 
-### RF 02 e 03:** Implementação de filtros de tarefas, objetivos e workspaces:
+### **RF 02 e 03:** Implementação de filtros de tarefas, objetivos e workspaces:
 Este item por sua vez foi feito tanto nas tarefas do objetivo e do workspace, quanto no próprio Workspace, tornando possível fazer a filtragem por diversos parametros, o que agiliza o processo de encontrar determinada tarefa e deixa mais visual todo o processo de gestão, trazendo praticidade ao usuário e dinâmismo em trabalhos em conjunto.
 <br>
 
-### RF 05:** Implementação da estipulação de tempo de cada Tarefa (Cronometro):
+### **RF 05:** Implementação da estipulação de tempo de cada Tarefa (Cronometro):
 Esse item é interessante, pois, em conjunto com as outras funcionalidades, o cronômetro de tempo para tarefas torna-se uma ferramenta valiosa para dar visibilidade ao processo. Ele permite o acompanhamento preciso do tempo investido em cada tarefa, o que desempenha um papel fundamental na gestão eficiente do tempo e na alocação de recursos ao longo de um projeto, sendo indispensável em um Workspace.
 <br>
 
-### 06 e 07:** Status gerais - PO e Usuários:
+### **06 e 07:** Status gerais - PO e Usuários:
 Esta item abrangeu todos os status de usuários do projeto, a ideia era tornar possível a diferenciação entre usuários comuns e os chamados usuários PO, que teriam mais privilégios dentro dos workspaces, sendo feita esta diferenciação na criação dos workspaces (Criou é usuário PO, foi adicionado é usuário comum), Além destes status, também implementamos os status das tarefas que poderão ser criadas pelos usuários, status estes podem ser alterados de acordo com o privilégio do usuário.
 <br>
 
