@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center"> Sprint 03 - 16/10 à 05/11 </h1>
+<h1 align="center"> Sprint 03 - 06/11 à 26/11 </h1>
 <br id="topo">
 <p align="center">
     <a href="#Objetivo">Objetivos da Sprint</a>  |  
@@ -12,23 +12,18 @@
 <h2> 🎯 Objetivo da Sprint</h2>
 <h4> 
 
-Na terceira sprint, nossa equipe concentrou seus esforços em concluir todas as funcionalidades relacionadas aos objetivo e workspaces. O plano foi estabelecer uma base sólida antes de passarmos para a quarta sprint, onde direcionaríamos nosso foco exclusivamente para a criação de dashboards.
-
-Durante essa sprint, implementamos várias funcionalidades essenciais. Introduzimos um cronômetro, que permite o acompanhamento do tempo gasto em cada tarefa, fornecendo uma visão clara do tempo despendido. Além disso, possibilitamos o upload de documentos diretamente nas tarefas dos workspaces, promovendo uma melhor compreensão e facilitando a colaboração da equipe.
-
-Também estabelecemos um sistema de status das tarefas, abrangendo desde "não começada" até "em andamento," "atrasada," "concluída" e "esperando validação." Esses status permitem um acompanhamento mais preciso do progresso das tarefas.
-
-Além das novas funcionalidades, dedicamos tempo para ajustar e melhorar algumas das funcionalidades já existentes como alguns filtros específicos e o checkbox, que agiliza o processo de mudança de status das tarefas, aprimorando a experiência geral do usuário e a eficiência do sistema.
+Na quarta sprint, nossa equipe consolidou os avanços conquistados nas iterações anteriores, direcionando agora nosso foco exclusivamente para a criação de dashboards mensais abrangendo tanto os Objetivos quanto os Workspaces. Nosso objetivo é fornecer uma visão abrangente e detalhada do progresso, permitindo uma análise eficaz e facilitando a tomada de decisões informadas.
+Implementamos uma lógica automatizada para o acompanhamento das tarefas em relação às datas estimadas. Se uma tarefa ultrapassar a data prevista, automaticamente será marcada como "atrasada". Essa funcionalidade visa proporcionar uma gestão mais eficaz do tempo e alertar a equipe sobre possíveis atrasos, permitindo ações corretivas proativas.
+Dedicamos esforços adicionais para refinamentos contínuos nas funcionalidades existentes, garantindo uma experiência de usuário ainda mais fluida. Os feedbacks recebidos durante as iterações anteriores foram cuidadosamente considerados, resultando em melhorias específicas nos filtros e na eficiência do checkbox para alteração de status das tarefas.
 </h4>
 <br>
     
 <h2>Requisitos Funcionais abrangidos nessa Sprint:</h2>
 
-- **RF 01 e 03:** Upload de documentos e arquivos;
-- **RF 02 e 03:** Implementação de filtros de tarefas, objetivos e workspaces;
-- **RF 05:** Implementação da estipulação de tempo de cada Tarefa (Cronometro);
-- **RF 06 e 07:** Status gerais - PO e Usuários.
-
+- **RF 08:** Dashboard mensal para analisar o desempenho do usuário;
+- **RF 09:** Lógica para o remanejamento de trefas não concluídas;
+- **RF 11:** Utilização de Gráficos.
+  
 <p>Requisitos Não Funcionais abrangidos nessa Sprint:</p>
 
 - **RNF 12:** Documentação no GitHub;
@@ -42,20 +37,17 @@ Além das novas funcionalidades, dedicamos tempo para ajustar e melhorar algumas
 <span id="entregas">
 <h2> 📑 Requisitos</h2>
 
-### **RF 01 e 03:** Upload de documentos e arquivos:
-A ideia para este item foi melhorar nosso app, tornando possível compartilhar e armazenar informações relacionadas aos seus projetos e tarefas, proporcionando assim uma gestão mais eficaz e eficiente das tarefas. .
+### **RF 08:** Dashboard mensal para analisar o desempenho do usuário:
+Desenvolvemos dashboards mensais abrangentes para oferecer uma visão consolidada e intuitiva do progresso de Objetivos e Workspaces. Essas ferramentas oferecem um panorama visual do progresso, apresentando gráficos interativos para análise de tendências e desempenho.
+Em resumo, nossos dashboards mensais são ferramentas essenciais para uma gestão visual e eficaz de informações relacionadas às tarefas dos Objetivos e Workspaces.
 <br>
 
-### **RF 02 e 03:** Implementação de filtros de tarefas, objetivos e workspaces:
-Este item por sua vez foi feito tanto nas tarefas do objetivo e do workspace, quanto no próprio Workspace, tornando possível fazer a filtragem por diversos parametros, o que agiliza o processo de encontrar determinada tarefa e deixa mais visual todo o processo de gestão, trazendo praticidade ao usuário e dinâmismo em trabalhos em conjunto.
+### **RF 09:** Lógica para o remanejamento de trefas não concluídas:
+Implementaram uma lógica que automatiza a atualização do status de tarefas nos objetivos e workspaces para "Em atraso" quando a data estimada para sua conclusão é ultrapassada. Essa funcionalidade visa proporcionar uma melhor gestão do tempo e priorização de atividades, evidênciando automaticamente as tarefas que estão fora do prazo previsto. Isso contribui para a eficiência e organização, permitindo que a equipe reaja proativamente a atrasos e tome medidas para realinhar as metas e prazos estabelecidos.
 <br>
 
-### **RF 05:** Implementação da estipulação de tempo de cada Tarefa (Cronometro):
-Esse item é interessante, pois, em conjunto com as outras funcionalidades, o cronômetro de tempo para tarefas torna-se uma ferramenta valiosa para dar visibilidade ao processo. Ele permite o acompanhamento preciso do tempo investido em cada tarefa, o que desempenha um papel fundamental na gestão eficiente do tempo e na alocação de recursos ao longo de um projeto, sendo indispensável em um Workspace.
-<br>
-
-### **06 e 07:** Status gerais - PO e Usuários:
-Esta item abrangeu todos os status de usuários do projeto, a ideia era tornar possível a diferenciação entre usuários comuns e os chamados usuários PO, que teriam mais privilégios dentro dos workspaces, sendo feita esta diferenciação na criação dos workspaces (Criou é usuário PO, foi adicionado é usuário comum), Além destes status, também implementamos os status das tarefas que poderão ser criadas pelos usuários, status estes podem ser alterados de acordo com o privilégio do usuário.
+### **RF 11:** Utilização de Gráficos:
+Esse item é referente a utilização de gráficos nos dashboards mensais dos Objetivos e Workspaces, uma prática essencial para visualizar e analisar de forma eficaz o desempenho e o progresso das tarefas estabelecidas. Entendemos que esse elemento visual fornece uma representação clara e concisa dos dados, facilitando a interpretação e a tomada de decisões.
 <br>
 
 <span id="burndown">
